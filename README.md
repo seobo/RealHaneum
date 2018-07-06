@@ -1,4 +1,5 @@
 # RealHaneum
 
 
-first test
+first test;
+twice test;

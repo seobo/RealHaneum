@@ -1,14 +1,8 @@
 # RealHaneum
-
-<!DOCTYPE html>
-<p lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-
-<p>
-<h1><pre> ＊ Real_Haneum</pre></h1>
+~~~
+- - -
+＊ Real_Haneum
+==============
 <hr>
 <h2> <pre>  project name : 경기대 수원캠 봇</pre></h2>
 
@@ -28,7 +22,7 @@
 
 </body>
 </html>
-
+~~~
 ~~~
 # -*- coding: utf-8 -*-
 2   

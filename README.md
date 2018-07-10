@@ -1,5 +1,5 @@
 # RealHaneum
-~~~
+
 <!DOCTYPE html>
 <p lang="en">
 <head>
@@ -28,7 +28,7 @@
 
 </body>
 </html>
-~~~
+
 ~~~
 # -*- coding: utf-8 -*-
 2   

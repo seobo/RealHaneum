@@ -15,7 +15,7 @@
 
 ## 개발 Process
 
-### 개발환경 구축
+>### 개발환경 구축
 1. AWS linux (ubuntu) 서버 구축
 2. 서버 Python 3.0으로 업그레이드
 3. VS(Visual Studio code) 설치

@@ -1,5 +1,34 @@
 # RealHaneum
+~~~
+<!DOCTYPE html>
+<p lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
 
+<p>
+<h1><pre> ＊ Real_Haneum</pre></h1>
+<hr>
+<h2> <pre>  project name : 경기대 수원캠 봇</pre></h2>
+
+<p><pre>     경기대학교 app 에서 제공하는 정보를 잘 모르는 user 들에게 접근성이 좋은
+    <br>    kakao talk 을 이용하여 chat bot 형식으로 서비스를 제공.<ins>api</ins>를 이용한다.
+    <br>    예를 들어 스쿨버스 정보, 학식 정보, 사무실 전화번호 등등..</pre></p>
+<br>
+<p><pre>    <b><mark><ins>동작 예시</ins></mark></b> <br>    input(<q>오늘 학식 뭐야?</q>), output(<q><ins>오늘의 학식 url</ins></q>) </pre></p>
+
+<p><abbr title="Application Programming Interface"> <strong>api 란?</strong></abbr>
+  <pre>    <q>응용 프로그램에서 사용할 수 있도록, 운영 체제나 프로그래밍 언어가
+    <br>     제공하는 기능을 제어할 수 있게 만든 인터페이스를 뜻한다.</q></pre></p>
+
+
+<hr>
+<p><pre>경기대학교 주소 <br><address> 경기도 수원시 영통구 광교산로 154-42 </address></pre></p>
+
+</body>
+</html>
+~~~
 ~~~
 # -*- coding: utf-8 -*-
 2   
@@ -59,7 +88,7 @@
 56 if __name__ == "__main__":
 57     app.run(host='0.0.0.0', port = 5000)
 58
- 
+
 59
 
 60 #출처: http://cupjoo.tistory.com/5 [오지는 컴퓨터 공부]

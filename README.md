@@ -15,7 +15,7 @@
 
 ## 개발 Process
 
->### 개발환경 구축
+### 개발환경 구축
 >1. AWS linux (ubuntu) 서버 구축
 >2. 서버 Python 3.0으로 업그레이드
 >3. VS(Visual Studio code) 설치
@@ -23,7 +23,7 @@
 >5. flask, bs4, requests 로컬과 서버에 설치  
 >6. 서버에 mysql 설치
 
->### 개발
+### 개발
 >1. 카카오 플러스 친구 생성 (서버 연동)
 >2. 기본 예제 Chat Bot test  ----> 코드 삽입
 >3. 자료수집 및 코드 수정   ----> 코드 삽입

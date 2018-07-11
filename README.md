@@ -35,3 +35,6 @@
 
  #### AWS linux (ubuntu) 서버 구축
   AWS 어쩌구 저쩌
+  
+ #### 서버 Python 3.0으로 업그레이드
+  AWS 어쩌구 저쩌

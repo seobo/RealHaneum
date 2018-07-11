@@ -16,7 +16,7 @@
 ## 개발 Process
 
 ### 개발환경 구축
->1. [AWS linux (ubuntu) 서버 구축](#AWS)
+>1. [AWS linux (ubuntu) 서버 구축](#AWS linux)
 >2. 서버 Python 3.0으로 업그레이드
 >3. VS(Visual Studio code) 설치
 >4. PIP(download module) 설치
@@ -32,4 +32,5 @@
 
 ***
 
- #### * AWS linux (ubuntu) 서버 구축
+ #### AWS linux (ubuntu) 서버 구축
+  AWS 어쩌구 저쩌구

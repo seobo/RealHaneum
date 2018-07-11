@@ -35,3 +35,20 @@
 
  #### AWS linux (ubuntu) 서버 구축
   AWS 어쩌구 저쩌구
+  
+***
+### 서버 Python 3.0으로 업그레이드
+어쩌구 저ㅓㅉ구
+
+***
+### VS(Visual Studio code) 설치
+어쩌구 저쩌꾸
+***
+### PIP(download module) 설치
+얼라리꼴라리
+***
+### flask, bs4, requests 로컬과 서버에 설치 
+메롱~
+***
+### 서버에 mysql 설치
+애브리까브리

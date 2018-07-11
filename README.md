@@ -16,9 +16,8 @@
 ## 개발 Process
 
 ### 개발환경 구축
-<a href="https://github.com/RyuByengOck/RealHaneum#AWS" title="Title">
-AWS</a>
->1. [AWS linux (ubuntu) 서버 구축](#AWS)
+
+>1. AWS linux (ubuntu) 서버 구축
 >2. 서버 Python 3.0으로 업그레이드
 >3. VS(Visual Studio code) 설치
 >4. PIP(download module) 설치

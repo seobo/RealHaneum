@@ -35,6 +35,22 @@
 
  #### AWS linux (ubuntu) 서버 구축
   AWS 어쩌구 저쩌
-  
+***  
  #### 서버 Python 3.0으로 업그레이드
-  AWS 어쩌구 저쩌
+  어쩌구 저쩌
+***
+### VS(Visual Studio code) 설치
+    링크 넣기 / Visual Stdio Cdoe 설명
+
+***
+### PIP(download module) 설치
+    PIP (download module) 설치방법 및 부가설명
+    
+***
+### flask, bs4, requests 로컬과 서버에 설치 
+  링크 커멘드창에서 설치하는 방법 / 부가 설명
+  
+  ***
+### 서버에 mysql 설치
+   설명
+    

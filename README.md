@@ -17,8 +17,8 @@
 
 ### 개발환경 구축
 
->1. [AWS linux (ubuntu) 서버 구축]
-><h5 style="color:green">2. 서버 Python 3.0으로 업그레이드</h5>
+>1. AWS linux (ubuntu) 서버 구축
+>2. 서버 Python 3.0으로 업그레이드
 >3. VS(Visual Studio code) 설치
 >4. PIP(download module) 설치
 >5. flask, bs4, requests 로컬과 서버에 설치  

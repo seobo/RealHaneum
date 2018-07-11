@@ -35,7 +35,7 @@
 
  #### AWS linux (ubuntu) 서버 구축
   AWS 회원가입 -> EC2 인스턴트 생성(ubuntu) -> 사용포트 개방(DB, python), 탄력적 IP설정 
-  putty 사용
+  <br>putty 사용
   
 ***  
  #### 서버 Python 3.0으로 업그레이드

@@ -34,4 +34,4 @@
 ***
 
  #### AWS linux (ubuntu) 서버 구축
-  AWS 어쩌구 저쩌구
+  AWS 어쩌구 저쩌

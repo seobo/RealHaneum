@@ -34,10 +34,14 @@
 ***
 
  #### AWS linux (ubuntu) 서버 구축
-  AWS 어쩌구 저쩌
+  AWS 회원가입 -> EC2 인스턴트 생성(ubuntu) -> 사용포트 개방(DB, python), 탄력적 IP설정 
+  <br>putty 사용
+  
 ***  
  #### 서버 Python 3.0으로 업그레이드
-  어쩌구 저쩌
+  기존 ubuntu 환경에서 기본으로 python을 제공하나
+  서버가 2.xx 버전이었다. 
+  버전 확인 후 최신버전으로 업그레이드
 ***
 ### VS(Visual Studio code) 설치
     링크 넣기 / Visual Stdio Cdoe 설명
